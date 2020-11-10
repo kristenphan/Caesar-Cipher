@@ -6,4 +6,4 @@ This repo stores the code written by Kristen Phan as part of a [Coursera source]
 <br/>
 __Assignment Description:__
 <br/>
-Write code to encrypt and decrypt a messaging using a Caesar Cipher algorithm with one or two keys.
+Write code to encrypt and decrypt a message using a Caesar Cipher algorithm with one or two keys.
